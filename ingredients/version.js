@@ -1,5 +1,5 @@
 var gulp = require('gulp');
-var elixir = require('laravel-elixir');
+var elixir = require('wlion-laravel-elixir');
 var rev = require('gulp-rev');
 var del = require('del');
 var utilities = require('./commands/Utilities');

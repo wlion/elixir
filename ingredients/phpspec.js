@@ -1,4 +1,4 @@
-var elixir = require('laravel-elixir');
+var elixir = require('wlion-laravel-elixir');
 var _ = require('underscore');
 var runTests = require('./commands/RunTests');
 
